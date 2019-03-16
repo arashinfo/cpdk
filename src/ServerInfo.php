@@ -1,6 +1,6 @@
 <?php
 
-namespace Arashinfo\Cpdk\ServerInfo;
+namespace Arashinfo\Cpdk;
 /**
  * Description of ServerInfo
  *
