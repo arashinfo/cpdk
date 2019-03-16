@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "arashinfo\\cpdk\\": "src/"
+            "Arashinfo\\Cpdk\\": "src/"
         }
     },
     "require": {
