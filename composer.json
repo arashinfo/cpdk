@@ -1,0 +1,18 @@
+{
+    "name": "vendor/cpdk",
+    "description": "(Project Idea) This is very simple core php development kit for small and mid size projects. Actually this is collection of php functions. This will include MySql, Request, Images.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gurjeet Singh",
+            "email": "singh@gurjeet.co.in"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "ServerInfo\\": "src/"
+        }
+    },
+    "require": {}
+}
